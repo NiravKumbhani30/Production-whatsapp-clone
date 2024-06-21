@@ -30,7 +30,7 @@ function onboarding() {
                         dispatch({ type: reducerCases.SET_NEW_USER, newUser: false });
                         dispatch({
                             type: "SET_USER_INFO",
-                            userInfo: d{
+                            userInfo: {
                                 id: data.user.id,
                                 name,
                                 email,
