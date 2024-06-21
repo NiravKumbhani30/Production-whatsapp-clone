@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
     apiKey: "AIzaSyBMhLentkpya2Z6UgwJdEKEbaPWhNLrXbo",
-    authDomain: "caht-app-408709.firebaseapp.com",
+    authDomain: "y-chating.vercel.app",
     projectId: "caht-app-408709",
     storageBucket: "caht-app-408709.appspot.com",
     messagingSenderId: "1088363640492",
