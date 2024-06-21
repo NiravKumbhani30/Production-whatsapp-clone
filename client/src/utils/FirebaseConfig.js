@@ -2,14 +2,14 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBMhLentkpya2Z6UgwJdEKEbaPWhNLrXbo",
-    authDomain: "caht-app-408709.firebaseapp.com",
-    projectId: "caht-app-408709",
-    storageBucket: "caht-app-408709.appspot.com",
-    messagingSenderId: "1088363640492",
-    appId: "1:1088363640492:web:f1fb4aadd470eee6e05109",
-    measurementId: "G-5QM3304QXP"
-};
+    apiKey: "AIzaSyDxv5nyPtOZNsTl7KUdO2Vkf9X_QGJlXpw",
+    authDomain: "whatsapp-clone-393af.firebaseapp.com",
+    projectId: "whatsapp-clone-393af",
+    storageBucket: "whatsapp-clone-393af.appspot.com",
+    messagingSenderId: "324909886914",
+    appId: "1:324909886914:web:ea3777462c4b73fcb17a5b",
+    measurementId: "G-NPD4RFEQ33"
+  };
 
 const app = initializeApp(firebaseConfig);
 
