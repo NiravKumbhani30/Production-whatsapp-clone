@@ -31,6 +31,7 @@ function onboarding() {
                         dispatch({
                             type: "SET_USER_INFO",
                             userInfo: {
+                                //some changes heare 
                                 id: data.user.id,
                                 name,
                                 email,
